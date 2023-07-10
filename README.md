@@ -20,4 +20,12 @@ Use following command:
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+## End-of-Year_Project_Report_2023__1A
+
+https://github.com/ghizlane-belzedi/CodeGenPro/blob/master/End-of-Year_Project_Report_2023__1A.pdf
+
+## Presentation_PFA_1A
+
+https://github.com/ghizlane-belzedi/CodeGenPro/blob/master/Presentation_PFA_1A.pdf
+
 
