@@ -1,0 +1,75 @@
+body {
+  text-align: center;
+  font-size: 30px;
+  padding: 30px;
+  background-color: #1E2025;
+  color: #fff;
+}
+
+
+
+ img {
+  display: block;
+  margin: 10px auto 20px auto;
+  max-width: 60px;
+}
+h1 {
+  margin-bottom: 20px;
+  color: #333;
+  text-align: center;
+}
+
+input ,select{
+  flex: 1;
+  margin-bottom: 10px;
+  padding: 10px;
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  margin-right: 10px
+}
+
+button {
+  margin-right: 10px;
+  padding: 10px 20px;
+  background-color: lightblue;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+select {
+  margin-bottom: 10px;
+  padding: 10px;
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+input {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+
+
+.cg-logo.loading {
+  animation: rotation 2s infinite linear;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
